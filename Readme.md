@@ -22,7 +22,7 @@ This project poster showcases the importance of mathematical foundations like *l
 
 ## 🔗 Poster Download
 
-[
+[https://github.com/arthishakthi2504/Math-in-AI/blob/9eb8d5e54db86094cea4bac0d8dd6c813c45f01a/WhatsApp%20Image%202025-06-27%20at%2011.10.23.pptx]
 
 ## 🧠 Real-Time Applications
 
