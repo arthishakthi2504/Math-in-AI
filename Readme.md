@@ -22,9 +22,7 @@ This project poster showcases the importance of mathematical foundations like *l
 
 ## 🔗 Poster Download
 
-[Click here to view/download the A3 poster (PDF)](PASTE-YOUR-NEW-GITHUB-PDF-LINK-HERE)
-
----
+[
 
 ## 🧠 Real-Time Applications
 
